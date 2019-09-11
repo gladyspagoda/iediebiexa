@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aicheaghe.openviszla.net/sitemap.xml
